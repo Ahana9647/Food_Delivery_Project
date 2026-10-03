@@ -1,0 +1,10 @@
+Total Orders: 50000
+
+Orders by City:
+City
+Delhi        10036
+Bangalore    10034
+Kolkata       9995
+Chennai       9986
+Mumbai        9949
+Name: count, dtype: int64
