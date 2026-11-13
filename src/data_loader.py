@@ -2,7 +2,7 @@ import os
 import sys
 import pandas as pd
 
-# প্রজেক্টের মূল ফোল্ডারকে পাইথনের পাথ-এ যোগ করা যাতে config.py সহজে পাওয়া যায়
+
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from config import RAW_DATA_PATH
 
