@@ -1,0 +1,6 @@
+City,Orders,Avg_Delivery_Time,On_Time_Percentage,Avg_Rating,Avg_Distance
+Bangalore,10034,55.64,70.23,4.17,9.54
+Chennai,9986,55.61,69.92,4.16,9.52
+Delhi,10036,55.5,70.73,4.17,9.45
+Kolkata,9995,55.99,69.78,4.17,9.64
+Mumbai,9949,55.63,70.23,4.17,9.48
