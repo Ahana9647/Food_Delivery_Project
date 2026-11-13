@@ -1,0 +1,5 @@
+Vehicle_Type,Orders,Avg_Delivery_Time,On_Time_Percentage,Avg_Rating,Avg_Distance
+Bicycle,2515,56.01,70.06,4.16,9.55
+Bike,25033,55.54,70.36,4.17,9.5
+EV,7470,55.94,69.88,4.17,9.57
+Scooter,14982,55.71,70.04,4.17,9.54

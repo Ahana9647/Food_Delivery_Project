@@ -1,10 +1,23 @@
 Total Orders: 50000
+Total Revenue (Delivered only): 64369694.00
+Delivery Success Rate: 91.87%
+On-Time Rate: 70.09%
+Average Rating: 4.17
+Repeat Customer Rate: 99.96%
 
-Orders by City:
-City
-Delhi        10036
-Bangalore    10034
-Kolkata       9995
-Chennai       9986
-Mumbai        9949
-Name: count, dtype: int64
+Restaurant Performance Ranking:
+
+                    Rank  Total_Orders  Revenue  Success_Rate_%  On_Time_Rate_%  Avg_Rating  Avg_Delivery_Time  Performance_Score
+Restaurant                                                                                                                       
+Urban Tadka            1          4202  5379187           92.46           71.25        4.17              55.16              86.11
+Delhi Darbar           2          4174  5461582           91.81           70.80        4.18              55.56              70.34
+Mumbai Masala          3          4190  5367291           92.17           70.74        4.17              55.72              60.60
+Bengal Bites           4          4114  5284336           91.20           70.44        4.18              55.40              55.96
+Desi Rasoi             5          4174  5397516           92.05           69.96        4.17              55.74              55.70
+Green Chilli           6          4142  5316036           91.60           70.61        4.17              55.62              49.43
+Flavours of Bengal     7          4198  5385845           92.00           69.45        4.17              55.68              45.88
+Fast Food Corner       8          4084  5294094           92.02           70.52        4.16              55.65              43.71
+Spice Hub              9          4208  5423025           91.92           69.73        4.17              56.03              35.53
+Taj Restaurant        10          4073  5259583           91.95           69.16        4.17              55.86              32.27
+ABC Kitchen           11          4297  5507361           91.53           69.39        4.17              55.96              24.37
+Royal Dine            12          4144  5293838           91.72           69.06        4.16              55.94              17.55

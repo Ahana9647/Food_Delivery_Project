@@ -1,0 +1,12 @@
+KPI,Value
+Total orders,50000.0
+Delivered orders,45934.0
+Cancelled orders,4066.0
+Average delivery time (min),55.67
+On-time delivery (%),70.18
+Late orders,14911.0
+Average rating,4.17
+Average distance (km),9.53
+Average preparation time (min),29.49
+Average order value,1401.5
+Average delivery fee,36.0
